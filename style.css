@@ -1,5 +1,4 @@
-body {
-	
+body { 
 }
 
 #banner {
@@ -11,19 +10,27 @@ body {
 	padding: 30px;
 }
 
-h1 {
-	text-align: center
+.titulo-principal {
+	padding: 30px;
 }
 
-p {
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center; 
+}
+
+p{
 	text-align: center;
 }
 
-#missao {
-	font-size: 20px
+#missao{
+	font-size: 20px;
 }
 
-em strong {
+em strong{ 
 	color: #FF0000;
 }
 
@@ -36,9 +43,6 @@ em strong {
 	padding: 20px;
 }
 
-h2 {
-	text-align: center;
-}
 ul {
 	display: inline-block;
 	vertical-align: top;
